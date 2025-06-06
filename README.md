@@ -69,13 +69,4 @@ A basic feedforward neural network (Multilayer Perceptron) with the following la
   * Predict which digit it is (0–9)
   * Display the prediction
 
----
-
-#### **Use Cases**:
-
-* Scanning handwritten forms (exams, surveys)
-* Postal code recognition
-* Bank check digit reading
-* Digital note-taking and recognition
-* Embedded device input (e.g., smart calculators)
 
